@@ -28,9 +28,9 @@ A one-page application for creating and managing Font Groups.
 
 ## 🛠️ Technology Stack
 
-| Component       | Technology |
-|----------------|------------|
-| **Frontend**   | Bootstrap 5, jQuery |
-| **Backend**    | Core PHP (OOP) |
-| **Storage**    | JSON files |
-| **Web Server** | Apache/Nginx |
+| Component       | Technology                    |
+|----------------|-------------------------------|
+| **Frontend**   | Bootstrap 5, jQuery           |
+| **Backend**    | Core PHP (OOP)                |
+| **Storage**    | JSON files                    |
+| **Web Server** | PHP built-in server or Apache |
