@@ -1,0 +1,80 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#fontList {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.remove-row {
+    line-height: 1;
+    padding: 0 0.5rem;
+}
+
+#fontList table {
+    width: 100%;
+    margin-top: 15px;
+}
+
+#fontList th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+}
+
+#fontList td {
+    vertical-align: middle;
+    padding: 12px 8px;
+}
+
+.delete-font {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+}
+
+.simple-upload {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.simple-upload .form-control-file {
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.simple-upload .text-muted {
+    display: block;
+    margin-top: -10px;
+    margin-bottom: 15px;
+    font-size: 0.8rem;
+    color: #6c757d;
+}
+
+.font-row {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.remove-row {
+    border-left: 0;
+    padding: 0 12px;
+}
+
+#groupContainer {
+    margin-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+    .font-row > div {
+        margin-bottom: 10px;
+    }
+}
