@@ -21,8 +21,7 @@ A one-page application for creating and managing Font Groups.
 3. Start PHP Server
     ```bash
     php -S localhost:8000
-4. Start PHP Server
-5. Access in browser
+4. Access in browser
     ```bash
     http://localhost:8000
 
